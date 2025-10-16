@@ -1,9 +1,6 @@
 # movieapp-monitoring
 Environnement de monitoring containerisée pour MovieApp, basée sur Prometheus et Grafana permettant de collecter, stocker et visualiser en temps réel les métriques.
 
-Le monitoring permet de **collecter, stocker et visualiser les métriques** de l’application Spring Boot.  
-Il repose sur **Prometheus** pour la collecte et **Grafana** pour la visualisation.
-
 ---
 
 ## Accès aux interfaces
